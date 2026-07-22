@@ -1,0 +1,13 @@
+target/
+bin/
+out/
+lib/
+statements/
+.idea/
+*.iml
+*.class
+.DS_Store
+.settings/
+.classpath
+.project
+.factorypath

@@ -1,0 +1,14 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.debug.settings.console": "integratedTerminal",
+  "java.debug.settings.onBuildFailureProceed": false,
+  "java.compile.nullAnalysis.mode": "disabled",
+  "java.configuration.maven.userSettings": null,
+  "terminal.integrated.cwd": "${workspaceFolder}",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  }
+}
